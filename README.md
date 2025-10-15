@@ -47,3 +47,8 @@ Your support helps maintain and improve this project!
 ## License
 
 This project is licensed under the MIT License - see the LICENSE file for details.
+## Screenshot
+
+![Sweet Disk Screenshot](https://github.com/mizutamine/Sweet-Disk/blob/main/screenshot.png?raw=true)
+![Sweet Disk Screenshot](https://github.com/mizutamine/Sweet-Disk/blob/main/screenshot-1.png?raw=true)
+![Sweet Disk Screenshot](https://github.com/mizutamine/Sweet-Disk/blob/main/screenshot-2.png?raw=true)
