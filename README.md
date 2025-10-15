@@ -1,52 +1,53 @@
-# Sweet Disk - Japanese Adult Movie Jav AV Organizer (AV女優資料夾分類)
+# Sweet Disk - Jav AV 整理器 (AV女優資料夾分類)
 
-## Features
+## 功能特色
 
-- **Automatic File Organization**: Sorts movies into folders based on actor names
-- **Input/Output Folder Selection**: Choose your source and destination directories
-- **Cross-Platform**: Works on Windows, macOS, and Linux
-- **Fast & Efficient**: Built with Rust backend for optimal performance
-- **User-Friendly Interface**: Clean React-based UI
+- **自動檔案整理**: 根據演員姓名將電影分類到不同資料夾
+- **輸入/輸出資料夾選擇**: 選擇您的來源和目標目錄
+- **跨平台支援**: 支援 Windows、macOS
+- **快速高效**: 採用 Rust 後端提供最佳效能
+- **使用者友善介面**: 乾淨的 React 介面設計
 
-## How It Works
+## 工作原理
 
-1. Select your input folder containing unsorted movie files
-2. Choose your output folder where organized files will be placed
-3. The application will automatically create actor-based folder structures
-4. Files are moved/copied to appropriate actor directories
+1. 選擇包含未整理電影檔案的輸入資料夾
+2. 選擇要放置整理後檔案的輸出資料夾
+3. 應用程式將自動建立基於演員的資料夾結構
+4. 檔案將被移動/複製到相應的演員目錄中
 
-## Usage
+## 使用方法
 
-1. Launch the Sweet Disk application
-2. Click "Select Input Folder" and choose the directory containing your movie files
-3. Click "Select Output Folder" and choose where you want the organized files
-4. Click "Start Organization" to begin the filing process
-5. Wait for the process to complete
+1. 啟動 Sweet Disk 應用程式
+2. 點擊「選擇輸入資料夾」並選擇包含您電影檔案的目錄
+3. 點擊「選擇輸出資料夾」並選擇您想要放置整理後檔案的位置
+4. 點擊「開始整理」以開始歸檔流程
+5. 等待處理完成
 
-## Supported File Formats
+## 支援的檔案格式
 
-- MP4, AVI, MKV, MOV, WMV
-- And other common video formats
+- MP4、AVI、MKV、MOV、WMV
+- 以及其他常見的影片格式
 
-## Disclaimer
+## 免責聲明
 
-This application is intended for personal file organization purposes only. Users are responsible for ensuring they have appropriate rights to the content they are organizing and that their use complies with local laws and regulations.
+此應用程式僅供個人檔案整理使用。使用者有責任確保他們對所整理的內容擁有適當的權利，並確保其使用符合當地法律法規。
 
-### Contributing
+### 貢獻
 
-Feel free to submit issues and enhancement requests!
+歡迎提交問題和改進建議！
 
-## Support the Project
+## 支持專案
 
-If you find Sweet Disk useful and it saves you time organizing your collection, consider buying me a coffee! ☕
+如果您覺得 Sweet Disk 有用並且為您節省了整理收藏的時間，考慮請我喝杯咖啡！ ☕
 
 [![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-support-yellow.svg)](https://buymeacoffee.com/mizutamine)
 
-Your support helps maintain and improve this project!
+您的支持有助於維護和改進這個專案！
 
-## License
+## 授權條款
 
-This project is licensed under the MIT License - see the LICENSE file for details.
+本專案採用 MIT 授權條款 - 詳見 LICENSE 檔案。
+
 ## Screenshot
 
 ![Sweet Disk Screenshot](https://github.com/mizutamine/Sweet-Disk/blob/main/screenshot.png?raw=true)
